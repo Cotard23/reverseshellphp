@@ -1,7 +1,9 @@
 # reverseshellphp
 # reverse shell multi-plataform
+# https://github.com/ivan-sincek/php-reverse-shell
 
-#https://raw.githubusercontent.com/ivan-sincek/php-reverse-shell/master/src/reverse/php_reverse_shell_older.php
+
+# https://raw.githubusercontent.com/ivan-sincek/php-reverse-shell/master/src/reverse/php_reverse_shell_older.php
 
 
 <?php
